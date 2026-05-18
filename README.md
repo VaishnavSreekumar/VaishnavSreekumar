@@ -172,7 +172,6 @@ Building systems that don't just work — but explain why they fail.
 # connect
 
 - LinkedIn: https://linkedin.com/in/vaishnav-sreekumar
-- GitHub: https://github.com/VaishnavSreekumar
 - Email: vaishnavsreekumar301@gmail.com
 
 ---
